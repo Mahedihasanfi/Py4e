@@ -8,4 +8,7 @@ def staircase(n):
         row=i*"#"
         print(row)
         i +=1
+
 staircase(n)
+
+###
